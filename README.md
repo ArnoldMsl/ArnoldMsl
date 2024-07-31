@@ -1,9 +1,8 @@
-Bonjour et Bienvenue sur ma page Github !
+Bonjour et bienvenue sur ma page GitHub !
 
-Ancien cadre avec une formation de juriste, j'ai décidé, après 5 ans de carrière de me reconvertir dans le dévelloppement informatique afin de suivre ma passion pour l'algorythmie et la logique informatique.
+Ancien cadre avec une formation de juriste, j'ai décidé, après 5 ans de carrière, de me reconvertir dans le développement informatique afin de suivre ma passion pour l'algorithmie et la logique informatique.
 
-Passioné de Sport (Tissus acrobatique, escalade, vélo et course à pied) ainsi que de Cinéma (N'hésitez pas à écouter les podcasts cinéma auxquels je participe !) de jeux de société et d'informatique, 
-je suis toujours dispo pour participer à un projet sur ces thèmes !
+Passionné de sport (tissus acrobatique, escalade, vélo et course à pied) ainsi que de cinéma (n'hésitez pas à écouter les podcasts cinéma auxquels je participe !), de jeux de société et d'informatique, je suis toujours disponible pour participer à un projet sur ces thèmes !
 
 En attendant, n'hésitez pas à vous promener dans mes repos :)
 
